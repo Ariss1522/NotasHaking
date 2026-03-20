@@ -11,13 +11,32 @@
             "id": "4790f1ec0913bc74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Competencia 2026/SUDO MAKE ME A SANDWICH.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "SUDO MAKE ME A SANDWICH"
+            }
+          },
+          {
+            "id": "522ca32c7629a09c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Competencia 2026/SUDO MAKE ME A SANDWICH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SUDO MAKE ME A SANDWICH"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,13 +198,16 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "4790f1ec0913bc74",
+  "active": "522ca32c7629a09c",
   "lastOpenFiles": [
+    "Competencia 2026/Piece by Piece.md",
+    "Competencia 2026/SUDO MAKE ME A SANDWICH.md",
+    "Competencia 2026",
     "PicoCTF/01 General Skills/5-First Grep.md",
-    "web/SOAP.md",
+    "PicoCTF/web/SOAP.md",
     "PicoCTF/01 General Skills/18-repetitions.md",
     "PicoCTF/01 General Skills/17-Magikarp Ground Mission.md",
-    "web/MatchTheRegex.md",
+    "PicoCTF/web/MatchTheRegex.md",
     "PicoCTF/01 General Skills/16-Tab, Tab, Attack.md",
     "PicoCTF/01 General Skills/14-Static ain't always noise.md",
     "PicoCTF/01 General Skills/13-Wave a flag.md",
@@ -197,11 +219,10 @@
     "PicoCTF/01 General Skills/6-Obedient Cat.md",
     "PicoCTF/01 General Skills/3-Warmed Up.md",
     "PicoCTF/01 General Skills/19-Big Zip.md",
-    "Sin nombre",
     "PicoCTF/plantilla/Plantilla.md",
     "PicoCTF/plantilla",
     "Plantilla 1.md",
-    "web",
+    "PicoCTF/web",
     "PicoCTF/01 General Skills/15-useless.md",
     "PicoCTF/01 General Skills/7-what's a net cat.md",
     "PicoCTF/01 General Skills/Sin nombre",

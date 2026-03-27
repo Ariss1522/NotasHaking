@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "57ef32db1d49d91e",
+    "id": "be7cab637668f511",
     "type": "split",
     "children": [
       {
-        "id": "698880345fd92cb6",
+        "id": "49f93ffdade409c2",
         "type": "tabs",
         "children": [
           {
-            "id": "04b5367f587a7fba",
+            "id": "350bbd1dc596b4f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Examen 1/Web/8-SSTI2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "8-SSTI2"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f57d7b7ae679baba",
+    "id": "7ff62c2b2ce5b822",
     "type": "split",
     "children": [
       {
-        "id": "e387b945c37fe07a",
+        "id": "fcc075f825b08a13",
         "type": "tabs",
         "children": [
           {
-            "id": "1481db57cf16753c",
+            "id": "7e41bfc88ae3ea8e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "b2d612175b9362ef",
+            "id": "f6ecdf12b61b7be1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "79ceac880affb9a7",
+            "id": "2e5573476103f8b5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "9438a0a0826e8de7",
+    "id": "001540dab186c14d",
     "type": "split",
     "children": [
       {
-        "id": "2a61b7ea63a4410f",
+        "id": "89c03ed010294571",
         "type": "tabs",
         "children": [
           {
-            "id": "5c9cd8c89e163259",
+            "id": "3492e9aa90660f16",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/01 General Skills/1-Lets Warm Up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 1-Lets Warm Up"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "7ac5a785ac5673ed",
+            "id": "eb80b76c1c8de202",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/01 General Skills/1-Lets Warm Up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 1-Lets Warm Up"
+              "title": "Enlaces salientes"
             }
           },
           {
-            "id": "b9b6fef022e6f082",
+            "id": "bebb3f65830bc96e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +131,7 @@
             }
           },
           {
-            "id": "229179d8e5cd2091",
+            "id": "8de3d2eb2eefd8ed",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +145,17 @@
             }
           },
           {
-            "id": "ece8c92207721ecb",
+            "id": "46958dfa747d40df",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/01 General Skills/1-Lets Warm Up.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 1-Lets Warm Up"
+              "title": "Esquema"
             }
           }
         ]
@@ -178,49 +171,11 @@
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
-      "templates:Insertar plantilla": false
+      "bases:Crear nueva base": false
     }
   },
-  "active": "04b5367f587a7fba",
-  "lastOpenFiles": [
-    "Examen 1/Web/4-SSTI1.md",
-    "Examen 1/Web/1-Bookmarklet.md",
-    "Examen 1/General Skills/1-FANTASY CTF.md",
-    "Sin título 4.md",
-    "Sin título 3.md",
-    "Forensic/Operation Oni.md",
-    "Forensic/Disk, disk, sleuth!.md",
-    "PicoCTF/01 General Skills/25-fixme1.py.md",
-    "PicoCTF/01 General Skills/24-convertme.py.md",
-    "PicoCTF/01 General Skills/23-Codebook.md",
-    "PicoCTF/01 General Skills/22-runme.py.md",
-    "GeneralS Tarea/10-ASCII Numbers.md",
-    "GeneralS Tarea/9-binhexa.md",
-    "GeneralS Tarea/8-binary search.md",
-    "GeneralS Tarea/7-Collaborative Development.md",
-    "GeneralS Tarea/6-blame game.md",
-    "GeneralS Tarea/5-Time Machine.md",
-    "GeneralS Tarea/4-Commitment Issues.md",
-    "GeneralS Tarea/3-Special.md",
-    "GeneralS Tarea/2-chrono.md",
-    "GeneralS Tarea/1-Permissions.md",
-    "PicoCTF/01 General Skills/20-First Find.md",
-    "PicoCTF/01 General Skills/19-Big Zip.md",
-    "Competencia 2026/SUDO MAKE ME A SANDWICH.md",
-    "PicoCTF/01 General Skills/30-Serpentine.md",
-    "Examen 1/General Skills/10-Specialer.md",
-    "Examen 1/General Skills",
-    "Sin título.canvas",
-    "Examen 1",
-    "Forensic",
-    "GeneralS Tarea",
-    "Competencia 2026",
-    "plantilla",
-    "PicoCTF/web",
-    "PicoCTF/01 General Skills/Sin nombre",
-    "PicoCTF/01 General Skills/Sin nombre",
-    "PicoCTF/01 General Skills"
-  ]
+  "active": "350bbd1dc596b4f3",
+  "lastOpenFiles": []
 }

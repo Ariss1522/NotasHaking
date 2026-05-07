@@ -1,10 +1,11 @@
 
-## Reto 
-Disk, disk, sleuth!
-## Descripcion 
+# Reto 
+###  Disk, disk, sleuth!
+## Descripcion
 Use `srch_strings` from the sleuthkit and some terminal-fu to find a flag in this disk image.[dds1-alpine.flag.img.gz](https://challenge-files.picoctf.net/c_wily_courier/89797cb52348a4096884e4f58164b42a892f8cac34b91d887491f44a5f144718/dds1-alpine.flag.img.gz)
 ## Solucion
 ```
+                                                                             
 ┌──(kali㉿kali)-[~]
 └─$ wget https://challenge-files.picoctf.net/c_wily_courier/89797cb52348a4096884e4f58164b42a892f8cac34b91d887491f44a5f144718/dds1-alpine.flag.img.gz
 --2026-03-23 10:16:18--  https://challenge-files.picoctf.net/c_wily_courier/89797cb52348a4096884e4f58164b42a892f8cac34b91d887491f44a5f144718/dds1-alpine.flag.img.gz
@@ -29,5 +30,8 @@ ffffffff81399cee t pirq_pico_set
 ffffffff820adb46 t pico_router_probe
   SAY picoCTF{f0r3ns1c4t0r_n30phyt3_5e56e786}
 ```
-## Notas Adicionales 
+## Notas adicionales 
+
 ## Referencias
+
+

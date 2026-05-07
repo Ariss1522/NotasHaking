@@ -1,14 +1,14 @@
 
-## Reto 
-Operation Oni
-## Descripcion 
+# Reto 
+### Operation Oni
+## Descripcion
 Download this disk image, find the key and log into the remote machine.Note: if you are using the webshell, download and extract the disk image into `/tmp` not your home directory.
 
 - [Download disk image](https://artifacts.picoctf.net/c/70/disk.img.gz)
 - Remote machine: `ssh -i key_file -p 53079 ctf-player@saturn.picoctf.net`
 ## Solucion
-
-```┌──(kali㉿kali)-[~]
+```
+┌──(kali㉿kali)-[~]
 └─$ cat key_file 
 -----BEGIN OPENSSH PRIVATE KEY-----
 b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
@@ -37,5 +37,10 @@ Last login: Mon Mar 23 14:58:38 2026 from 127.0.0.1
 ctf-player@challenge:~$ cat flag.txt
 picoCTF{k3y_5l3u7h_b5066e83}ctf-player@challenge:~$ Connection to saturn.picoctf.net closed by remote host.
 Connection to saturn.picoctf.net closed.
+
 ```
+## Notas adicionales 
+
 ## Referencias
+
+
